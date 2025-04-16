@@ -2,40 +2,42 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. What stage follows the polarization stage seen in cell migration?",
+      "question": "1. What will be the result of the drug when it has no effect in cells?",
       "answers": {
-        "a": "protrusion",
-        "b": "traction",
-        "c": "retraction",
+        "a": "High growth of cells",
+        "b": "Cell growth is reduced",
+        "c": "Normal growth in cell",
         "d": "None of the above"
       },
  
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },   
 
+    
 
+    
     {
-      "question": "2. What confluency of cells is required to perform the experiment?",
+      "question": "2. How many cells are required to obtain an efficient reading with the MTT cell proliferation assay?",
       "answers": {
-        "a": "<90%",
-        "b": ">90%",
-        "c": "70%",
-        "d": "60%"
+        "a": "1000-2000 per well",
+        "b": "2000-4000 per well",
+        "c": "2000-5000 per well",
+        "d": "5000-10000 per well"
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
 
     
     {
-      "question": "3. Basic machinery for protrusion are",
+      "question": "3. Are there cell types that will not work with the MTT cell proliferation assay?",
       "answers": {
-        "a": "actin",
-        "b": "myosin",
-        "c": "antegrin",
-        "d": "all the above"
+        "a": "Cells with functional mitochondria",
+        "b": "Cells without functional mitochondria",
+        "c": "Both a and b",
+        "d": "None of the above"
       },
      
       "correctAnswer": "a",
@@ -46,5 +48,9 @@
 	 
 	 
 
- 	 
+
+
+
+
+
 
