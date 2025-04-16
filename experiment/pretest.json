@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What will be the result of the drug when it has no effect in cells?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "High growth of cells",
+        "b": "Cell growth is reduced",
+        "c": "Normal growth in cell",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+ 
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },   
+
+    
+
+    
+    {
+      "question": "2. How many cells are required to obtain an efficient reading with the MTT cell proliferation assay?",
+      "answers": {
+        "a": "1000-2000 per well",
+        "b": "2000-4000 per well",
+        "c": "2000-5000 per well",
+        "d": "5000-10000 per well"
       },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
+
+    
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. Are there cell types that will not work with the MTT cell proliferation assay?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cells with functional mitochondria",
+        "b": "Cells without functional mitochondria",
+        "c": "Both a and b",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
-}
+}	 
+	 
+	 
+
+
+
+
+
+
+
